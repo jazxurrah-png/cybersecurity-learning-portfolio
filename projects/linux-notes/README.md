@@ -35,3 +35,7 @@ Describe the symptom clearly.
 ### Result
 
 Explain what worked, what failed, and why.
+
+## Compatibility Guides
+
+- [ASUS ROG Strix G512LW Linux Compatibility Guide](asus-rog-g512lw-linux-compatibility.md)
