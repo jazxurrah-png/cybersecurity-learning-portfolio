@@ -2,16 +2,15 @@
 
 Use this folder for commands, troubleshooting write-ups, and explanations.
 
-## Suggested Topics
+## Planned Topics
 
-- Fedora update commands
-- Package installation and removal
-- Filesystem and drive mounting
-- Systemd service management
-- TTY recovery
-- KDE Plasma troubleshooting
-- NVIDIA and audio troubleshooting
-- Useful networking commands
+- [x] Fedora package management
+- [x] Filesystem and drive mounting
+- [x] TTY recovery
+- [x] NVIDIA and audio troubleshooting
+- [ ] Systemd service management
+- [ ] KDE Plasma troubleshooting
+- [ ] Networking commands
 
 
 ## Compatibility Guides
