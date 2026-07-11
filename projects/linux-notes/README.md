@@ -13,28 +13,6 @@ Use this folder for commands, troubleshooting write-ups, and explanations.
 - NVIDIA and audio troubleshooting
 - Useful networking commands
 
-## Write-Up Template
-
-### Problem
-
-Describe the symptom clearly.
-
-### Environment
-
-- Distribution:
-- Desktop environment:
-- Hardware:
-- Relevant software:
-
-### Commands Used
-
-```bash
-# Add commands here
-```
-
-### Result
-
-Explain what worked, what failed, and why.
 
 ## Compatibility Guides
 
@@ -61,3 +39,5 @@ Explain what worked, what failed, and why.
 
 - [Linux Diagnostic Command Reference](linux-diagnostic-command-reference.md)
 - [Public Portfolio Safety Checklist](portfolio-publication-safety-checklist.md)
+
+- [Linux Troubleshooting Write-Up Template](WRITEUP-TEMPLATE.md)
